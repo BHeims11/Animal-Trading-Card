@@ -20,8 +20,8 @@ To get a local copy of the project up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/scorpion-trading-card.git
-   cd scorpion-trading-card
+   git clone https://github.com/BHeims11/animal-trading-card.git
+   cd Animal-trading-card
    ```
 
 2. **Open the project:**
